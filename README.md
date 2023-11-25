@@ -1,8 +1,18 @@
-# React + Vite
+# PedroNotes 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/jpedrofa/pedronotes/assets/111025060/7aff99c3-5492-4908-b335-6879c3fcdd59)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+<h1>👨🏻‍💻 About the project</h1>
+
+Layout of App to save and manage your links with notes
+
+<h2>🚀 Technologies </h2>
+
+Technologies that I used to develop this web client
+
+* ReactJS
+* React Router DOM
+* React Icons
+* Styled Components
